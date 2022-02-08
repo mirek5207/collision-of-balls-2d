@@ -12,9 +12,9 @@ It is simple app which simulate collision of balls</br>
 
 
 ## Technologies:
-*Java
-*Maven
-*Swing
+*Java</br>
+*Maven</br>
+*Swing</br>
 
 Author: Mirosław Karwowski</br>
 Gmail: mirek15207@gmail.com</br>
